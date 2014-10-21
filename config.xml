@@ -6,10 +6,10 @@ ersion   = "1.0.0">
 <name>Guilin 2015</name>
 <description>Guilin 2015</description>
 </widget>
-<icon src="icons/icon.png" gap:platform="android" gap:density="ldpi" />
-<icon src="icons/icon.png" gap:platform="android" gap:density="mdpi" />
-<icon src="icons/icon.png" gap:platform="android" gap:density="hdpi" />
-<icon src="icons/icon.png" gap:platform="android" gap:density="xhdpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="ldpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="mdpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="hdpi" />
+<icon src="images/icon.png" gap:platform="android" gap:density="xhdpi" />
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="ldpi" />
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="hdpi" />
