@@ -5,7 +5,7 @@ id        = "com.yfcreation.guilin"
 ersion   = "1.0.0">
 <name>Guilin 2015</name>
 <description>Guilin 2015</description>
-</widget>
+
 <icon src="images/icon.png" gap:platform="android" gap:density="ldpi" />
 <icon src="images/icon.png" gap:platform="android" gap:density="mdpi" />
 <icon src="images/icon.png" gap:platform="android" gap:density="hdpi" />
@@ -14,3 +14,6 @@ ersion   = "1.0.0">
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="hdpi" />
 <gap:splash src="splash/splash.png" gap:platform="android" gap:density="xhdpi" />
+
+</widget>
+
