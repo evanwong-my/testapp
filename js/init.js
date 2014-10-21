@@ -53,6 +53,7 @@
 					orientation: 'vertical'
 				},
 				navButton: {
+                    hidden: true,
 					breakpoints: 'mobile',
 					position: 'top-center',
 					side: 'top',
